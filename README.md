@@ -34,11 +34,11 @@ To use the project, follow these steps:
 
 ## Contribution 🤝
 
-If you want to contribute to the project, send a private message to the author or make a pull request.
+If you want to contribute to the project, send a private message to me or make a pull request.
 
 ## Contact 📧
 
-For more information or collaborations on the project, contact the author by email at yogi.yokomizo@gmail.com.
+For more information or collaborations on the project, contact me at yogi.yokomizo@gmail.com.
 
 ## Project Status 🏁
 
